@@ -3,7 +3,9 @@ Hey there, I'm Rostislav! ![](https://user-images.githubusercontent.com/18350557
 
 ### About me
 
-I'm result-oriented, highly motivated <b>Front-end Developer</b> with <b>4+ years</b> of production experience in <b>Javascript/Typescript/Vue.js.</b>
+I’m a passionate and results-driven <b>Front-End Developer</b> with over <b>4 years</b> of hands-on experience in designing and developing dynamic, responsive web applications. I specialize in utilizing modern front-end technologies such as <b>JavaScript</b>, <b>TypeScript</b>, <b>Vue.js</b>, and <b>Nuxt.js</b> to build scalable, high-performance solutions that deliver exceptional user experiences.
+Throughout my career, I’ve worked across diverse industries, including investment management, logistics, and agriculture, collaborating closely with cross-functional teams in Agile environments to meet business goals and project deadlines. I’m committed to writing clean, maintainable code and constantly strive to improve both the performance and accessibility of my applications. With a strong focus on user-centric development, I’m always eager to ad apt to new challenges and contribute to the success of every project I undertake.
+
 
 * 🌍  I'm based in Ukraine.
 * ✉️  You can contact me at [rostislavses97@gmail.com](mailto:rostislavses97@gmail.com)
