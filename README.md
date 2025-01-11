@@ -7,7 +7,7 @@ I’m a passionate and results-driven <b>Front-End Developer</b> with over <b>4 
 Throughout my career, I’ve worked across diverse industries, including investment management, logistics, and agriculture, collaborating closely with cross-functional teams in Agile environments to meet business goals and project deadlines. I’m committed to writing clean, maintainable code and constantly strive to improve both the performance and accessibility of my applications. With a strong focus on user-centric development, I’m always eager to ad apt to new challenges and contribute to the success of every project I undertake.
 
 
-* 🌍  I'm based in Ukraine.
+* 🌍  I'm based in <b>Ukraine</b>.
 * ✉️  You can contact me at [rostislavses97@gmail.com](mailto:rostislavses97@gmail.com)
 
 ### Skills
