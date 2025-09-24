@@ -3,8 +3,8 @@ Hey there, I'm Rostislav! ![](https://user-images.githubusercontent.com/18350557
 
 ### About me
 
-  Front-End Developer with over 5 years of professional experience in building modern, responsive, and scalable web applications. Skilled in JavaScript, TypeScript, and the Vue.js ecosystem (Vuex, Pinia, Nuxt.js). I focus on creating maintainable solutions with strong attention to performance, accessibility, and user experience. 
-  My background covers projects in fintech (investment platforms, crowdfunding, digital payments), logistics and transportation systems, and agriculture process automation, where I worked on designing new features, improving existing architectures, and integrating third-party services.
+  Front-End Developer with <b>over 5 years</b> of professional experience in building modern, responsive, and scalable web applications. Skilled in <b>JavaScript </b>, <b>TypeScript</b>, and the <b>Vue.js</b> ecosystem (Vuex, Pinia, Nuxt.js). I focus on creating maintainable solutions with strong attention to performance, accessibility, and user experience.<br/>
+  My background covers projects in <b>fintech (investment platforms, crowdfunding, digital payments), logistics and transportation systems, and agriculture process automation </b>, where I worked on designing new features, improving existing architectures, and integrating third-party services.<br/>
   I have hands-on experience ensuring compliance with accessibility standards (WCAG, ARIA) and collaborating with cross-functional teams in Agile environments to deliver reliable, business-oriented solutions.
   With a problem-solving mindset and a detail-oriented approach, I consistently contribute to building products that meet both user and business needs.
 
