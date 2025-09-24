@@ -3,8 +3,11 @@ Hey there, I'm Rostislav! ![](https://user-images.githubusercontent.com/18350557
 
 ### About me
 
-I’m a passionate and results-driven <b>Front-End Developer</b> with over <b>4 years</b> of hands-on experience in designing and developing dynamic, responsive web applications. I specialize in utilizing modern front-end technologies such as <b>JavaScript</b>, <b>TypeScript</b>, <b>Vue.js</b>, and <b>Nuxt.js</b> to build scalable, high-performance solutions that deliver exceptional user experiences.
-Throughout my career, I’ve worked across diverse industries, including investment management, logistics, and agriculture, collaborating closely with cross-functional teams in Agile environments to meet business goals and project deadlines. I’m committed to writing clean, maintainable code and constantly strive to improve both the performance and accessibility of my applications. With a strong focus on user-centric development, I’m always eager to ad apt to new challenges and contribute to the success of every project I undertake.
+  Front-End Developer with over 5 years of professional experience in building modern, responsive, and scalable web applications. Skilled in JavaScript, TypeScript, and the Vue.js ecosystem (Vuex, Pinia, Nuxt.js). I focus on creating maintainable solutions with strong attention to performance, accessibility, and user experience. 
+  My background covers projects in fintech (investment platforms, crowdfunding, digital payments), logistics and transportation systems, and agriculture process automation, where I worked on designing new features, improving existing architectures, and integrating third-party services.
+  I have hands-on experience ensuring compliance with accessibility standards (WCAG, ARIA) and collaborating with cross-functional teams in Agile environments to deliver reliable, business-oriented solutions.
+  With a problem-solving mindset and a detail-oriented approach, I consistently contribute to building products that meet both user and business needs.
+
 
 
 * 🌍  I'm based in <b>Ukraine</b>.
